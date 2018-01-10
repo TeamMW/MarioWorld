@@ -14,28 +14,24 @@ namespace StudentListing2
         {
             //string option = "";
 
-
-            Console.Clear();
-
-            Console.WriteLine("To Learn About A Student Select The Letter Next To The Name:");
-            Console.WriteLine("A: Marcus Jones");
-            Console.WriteLine("B: Patty Mayonnaise");
-            Console.WriteLine("C: TJ Deitwieller");
-            Console.WriteLine("D: Tom Jerry");
-            Console.WriteLine("E: PepperAnn Finster");
-
-
-            Console.WriteLine(" ");
-
-
-            Console.WriteLine(" ");
-            Console.Write("Selection):  ");
-            var option2 = Console.ReadLine().ToString();
-
-
-            while (true)
+            do
             {
-                switch (option2)
+                Console.Clear();
+
+                Console.WriteLine("Student Listing: ");
+                Console.WriteLine("------------------");
+                Console.WriteLine("To Learn About A Student Select The Letter Next To The Name:");
+                Console.WriteLine("A: Marcus Jones");
+                Console.WriteLine("B: Patty Mayonnaise");
+                Console.WriteLine("C: TJ Deitwieller");
+                Console.WriteLine("D: Tom Jerry");
+                Console.WriteLine("E: PepperAnn Finster");
+
+                Console.WriteLine(" ");
+                Console.Write("Selection):  ");
+                string userChoice = Console.ReadLine();
+
+                switch (userChoice)
                 {
                     case "A":
                         StudentA();
@@ -55,6 +51,11 @@ namespace StudentListing2
 
 
                 }
+            }
+
+            while (true);
+            {
+
             }
 
             Console.ReadLine();
@@ -80,10 +81,11 @@ namespace StudentListing2
 
             Console.WriteLine(" ");
             Console.Write("Selection):  ");
-            var option = Console.ReadLine();
+
 
             while (true)
             {
+                var option = Console.ReadLine();
                 switch (option)
                 {
                     case "Q":
@@ -111,10 +113,11 @@ namespace StudentListing2
 
             Console.WriteLine(" ");
             Console.Write("Selection):  ");
-            var option = Console.ReadLine();
+
 
             while (true)
             {
+                var option = Console.ReadLine();
                 switch (option)
                 {
                     case "Q":
@@ -143,10 +146,11 @@ namespace StudentListing2
 
             Console.WriteLine(" ");
             Console.Write("Selection):  ");
-            var option = Console.ReadLine();
+
 
             while (true)
             {
+                var option = Console.ReadLine();
                 switch (option)
                 {
                     case "Q":
@@ -175,10 +179,11 @@ namespace StudentListing2
 
             Console.WriteLine(" ");
             Console.Write("Selection):  ");
-            var option = Console.ReadLine();
+
 
             while (true)
             {
+                var option = Console.ReadLine();
                 switch (option)
                 {
                     case "Q":
@@ -207,10 +212,11 @@ namespace StudentListing2
 
             Console.WriteLine(" ");
             Console.Write("Selection):  ");
-            var option = Console.ReadLine();
+
 
             while (true)
             {
+                var option = Console.ReadLine();
                 switch (option)
                 {
                     case "Q":
