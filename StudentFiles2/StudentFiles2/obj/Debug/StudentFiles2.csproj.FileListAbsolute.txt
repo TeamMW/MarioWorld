@@ -5,3 +5,9 @@ H:\MW\StudentFiles2\StudentFiles2\bin\Debug\StudentFiles2.pdb
 H:\MW\StudentFiles2\StudentFiles2\obj\Debug\StudentFiles2.csprojResolveAssemblyReference.cache
 H:\MW\StudentFiles2\StudentFiles2\obj\Debug\StudentFiles2.exe
 H:\MW\StudentFiles2\StudentFiles2\obj\Debug\StudentFiles2.pdb
+H:\grouppro\StudentFiles2\StudentFiles2\bin\Debug\StudentFiles2.exe.config
+H:\grouppro\StudentFiles2\StudentFiles2\obj\Debug\StudentFiles2.exe
+H:\grouppro\StudentFiles2\StudentFiles2\obj\Debug\StudentFiles2.pdb
+H:\grouppro\StudentFiles2\StudentFiles2\bin\Debug\StudentFiles2.exe
+H:\grouppro\StudentFiles2\StudentFiles2\bin\Debug\StudentFiles2.pdb
+H:\grouppro\StudentFiles2\StudentFiles2\obj\Debug\StudentFiles2.csprojResolveAssemblyReference.cache
